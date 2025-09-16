@@ -1,0 +1,16 @@
+header{background-color: #8d122a;
+  color: #f8f9fa;
+  font-size: 222px;
+  padding: 10px;}
+
+footer {
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+}
+.nav-link.active {
+  color: #f6f6f6 !important; 
+  font-weight: bold;
+}
+
